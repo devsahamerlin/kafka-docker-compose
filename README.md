@@ -1,3 +1,8 @@
+[Maintainer: Saha Merlin](https://www.linkedin.com/in/merlin-saha/)
+
+# Kafka Architecture
+![ZOOKEEPER & SCHEMA REGISTRY ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/ZOOKEEPER-SCHEMA-REGISTRY-ARCHITECTURE.png?raw=true)
+
 # Kraft mode
 
 ```sh
@@ -21,4 +26,8 @@ docker-compose -f common.yml -f kafka_cluster.yml up -d
 # manage ui with zookeeper
 
 open brower and check
-http://localhost:8089# kafka-docker-compose
+http://localhost:8089
+
+# How topic flow work ?
+
+![KAFKA ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/KAFKA-ARCHITECTURE.png?raw=true)
