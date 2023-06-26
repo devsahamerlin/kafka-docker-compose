@@ -1,7 +1,7 @@
 [Maintainer: Saha Merlin](https://www.linkedin.com/in/merlin-saha/)
 
 # Kafka Architecture
-![ZOOKEEPER & SCHEMA REGISTRY ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/ZOOKEEPER-SCHEMA-REGISTRY-ARCHITECTURE.png?raw=true)
+![ZOOKEEPER & SCHEMA REGISTRY ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/architecture/ZOOKEEPER-SCHEMA-REGISTRY-ARCHITECTURE.png?raw=true)
 
 # Kraft mode
 
@@ -30,4 +30,4 @@ http://localhost:8089
 
 # How topic flow work ?
 
-![KAFKA ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/KAFKA-ARCHITECTURE.png?raw=true)
+![KAFKA ARCHITECTURE](https://github.com/devsahamerlin/kafka-docker-compose/blob/main/architecture/KAFKA-ARCHITECTURE.png?raw=true)
